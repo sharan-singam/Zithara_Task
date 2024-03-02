@@ -10,11 +10,6 @@ Zithara Technologies Round 2 - Task: React and Node JS Application Development. 
 - React frontend with Node/Express backend
 - PostgreSQL database with dummy seeded data
 
-## Demo
-
-https://github.com/rohzzn/ZitharaTask/assets/47408756/fbfe5257-7968-4b7f-b524-ca2b215c74f7
-
-
 
 ## Usage
 
